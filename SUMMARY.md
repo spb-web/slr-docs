@@ -31,11 +31,10 @@
 ## Contracts
 
 * [Addresses](contracts/addresses.md)
-* [Security](contracts/security.md)
+* [Security](contracts/timelock.md)
 * [Emergency Withdraw](contracts/emergency-withdraw.md)
 * [Audits](contracts/audits.md)
 
 ## Support
 
 * [Contacts](support/contacts.md)
-* [Keyboard Shortcuts](support/keyboard-shortcuts.md)
