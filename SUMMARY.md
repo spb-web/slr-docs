@@ -13,7 +13,6 @@
 * [Token distribution](tokenomics/token-distribution.md)
 * [Automatic Liquidity](tokenomics/automatic-liquidity.md)
 * [Harvest Lockup](tokenomics/harvest-lockup.md)
-* [How to buy SLR token](tokenomics/how-to-buy-slr-token.md)
 
 ## Fundamentals
 
@@ -21,6 +20,13 @@
 * [Airdrop](fundamentals/airdrop.md)
 * [Roadmap](fundamentals/roadmap.md)
 * [Launch](fundamentals/launch.md)
+
+## Using the website
+
+* [Buy SLR](using-the-website/buy-slr.md)
+* [Stake Your SLR](using-the-website/stake-your-slr.md)
+* [Migrate Your Staked SLR](using-the-website/migrate-your-staked-slr.md)
+* [Withdrawal Your Staked SLR](using-the-website/withdrawal-your-staked-slr.md)
 
 ## Contracts
 

@@ -1,5 +1,6 @@
 ---
 description: Welcome to SlrFinance - Automatic Liquidity Acquisition Yield Farm & DeFi 3.0
+coverY: 0
 ---
 
 # SLR.Finance Overview
