@@ -31,7 +31,7 @@
 ## Contracts
 
 * [Addresses](contracts/addresses.md)
-* [Timelock](contracts/timelock.md)
+* [Security](contracts/security.md)
 * [Emergency Withdraw](contracts/emergency-withdraw.md)
 * [Audits](contracts/audits.md)
 
