@@ -10,8 +10,9 @@
 ## Tokenomics
 
 * [SLR token](tokenomics/slr-token.md)
-* [Token distribution](tokenomics/token-distribution.md)
 * [Automatic Liquidity](tokenomics/automatic-liquidity.md)
+* [MilkyWay](tokenomics/milkyway.md)
+* [Token distribution](tokenomics/token-distribution.md)
 * [Harvest Lockup](tokenomics/harvest-lockup.md)
 
 ## Fundamentals
