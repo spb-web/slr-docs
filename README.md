@@ -18,7 +18,7 @@ Each transfer of SLR must pay a 10% transfer tax. The 9% transfer tax gets added
 
 ### DeFi 3.0 <a href="#automatic-liquidity" id="automatic-liquidity"></a>
 
-Liquidity can never be dried up because it's owned by the MilkyWay protocol from the Buyback & burn to Liquidity process.. MilkyWay uses the accumulated tokens in other profit generation protocols, and uses the received profit to Buyback & burn to Liquidity
+Liquidity can never be dried up because it's owned by the MilkyWay protocol from the Buyback & burn to Liquidity process.. MilkyWay uses the accumulated tokens in other profit generation protocols, and uses the received profit to Buyback & burn to Liquidity.
 
 
 
@@ -36,19 +36,15 @@ Harvest lockup is a unique rewards lockup mechanism used to limit the frequency 
 
 ### Referral Program <a href="#referral-program" id="referral-program"></a>
 
-An on-chain referral program has been implemented to incentivize users to invite friends to join the farming. Inviters can earn 10% of his/her friends' earnings forever.
+An on-chain referral program has been implemented to incentivize users to invite friends to join the farming. Inviters can earn 10% of his/her friends' earnings and 1%  of each his/her friends' transfer of SLR forever.
 
 {% content-ref url="features/referral-program.md" %}
 [referral-program.md](features/referral-program.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
 ### Fundamentals: Dive a little deeper
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Learn the fundamentals of SlrFinance to get a deeper understanding of our main features:
 
 {% content-ref url="fundamentals/roadmap.md" %}
 [roadmap.md](fundamentals/roadmap.md)
@@ -65,7 +61,3 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% content-ref url="fundamentals/airdrop.md" %}
 [airdrop.md](fundamentals/airdrop.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
