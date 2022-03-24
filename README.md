@@ -42,7 +42,7 @@ An on-chain referral program has been implemented to incentivize users to invite
 [referral-program.md](features/referral-program.md)
 {% endcontent-ref %}
 
-### Fundamentals: Dive a little deeper
+## Fundamentals: Dive a little deeper
 
 Learn the fundamentals of SlrFinance to get a deeper understanding of our main features:
 
